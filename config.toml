@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogtpi.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm Toksave Blog"
-languageCode = "tpi"
+baseURL = "https://blogky.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm блог"
+languageCode = "ky"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Haupes"
+    name = "Башкы бет"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Ol Stori"
+    name = "Макалалар"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Tok Tok Wantaim Mipela"
+    name = "Байланыш"
     url = "/contact/"
     weight = 3
 

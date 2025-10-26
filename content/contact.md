@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Байланыш"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Mipela i stap hia long helpim yu long painim ol gutpela **Hausrobàl Alarm** prodaks na **sekuriti solusen** bilong bisnis bilong yu. Sapos yu nidim tekinikal sapot, ol detal bilong distribusen, o infomesen bilong partnership, tim bilong mipela i gat experience i redi long helpim yu.
+Биз сиздин бизнесиңиз үчүн эң мыкты **уулурулук сигнализациялык системалар** жана **коопсуздук чечимдерин** табууга жардам беребиз. Эгерде сизге техникалык колдоо, дистрибуция боюнча маалымат же өнөктөштүк тууралуу маалымат керек болсо — биздин тажрыйбалуу команда жардам берүүгө даяр.
 
-## 📍 Kontakim Athenalarm
+## 📍 Athenalarm менен байланыш
 
-**Adres:**  
+**Дарек:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**Электрондук почта:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobael / WhatsApp / Viber:**  
+**Мобилдик / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Веб-сайт:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Konekt Wantaim Mipela
+## 🌐 Биз менен байланышта болуңуз
 
-Stret long ol nupela **sekuriti inovesen**, **case studies**, na **prodak rilis** bilong mipela:
+Биздин соңку **коопсуздук инновациялары**, **орнотуу мисалдары** жана **жаңы продукция чыгаруулар** боюнча жаңылыктардан кабардар болуңуз:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Stret long ol nupela **sekuriti inovesen**, **case studies**, na **prodak rilis*
 
 ---
 
-> _Athenalarm — Profesional **Hausrobàl Alarm** Produsa & **Netwok Alarm Monita** Solusen._
+> _Athenalarm — Профессионалдуу **уулурулук сигнализация өндүрүүчүсү** жана **тармактык коопсуздук сигналдарын көзөмөлдөө чечимдерин** камсыздоочу._

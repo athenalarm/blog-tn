@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesional Burglar Alarm Na Network Alarm Monitoring Solusen"
+title: "Athenalarm – Кесиптик Уурулукка каршы сигнализация өндүрүүчү жана Тармактык сигнализацияны көзөмөлдөө чечимдери"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Lukluk Long Olgeta
+## Жалпы маалымат
 
-Stet long 2006, Athenalarm em i wanpela profesional burglar alarm manufacturer we i spesel long intrusion alarm na network alarm monitoring systems. Olgeta produkn bilong mipela i givim gutpela, praktikal security solutions long ol bisnis, insititusin, na ol komuniti residensial. Mipela fokus long industrial-grade intruder alarm systems we i bungim intrusion alarms wantaim CCTV bilong real-time verification, sapotim remote diagnostics na centralized management. Ol sistem dispela i stret long ol divas sektas olsem bank, edukesen, ritel, healthcare, na ol residensial komuniti, na ol kliens long olgeta hap bilong wol i trustim dispela.
+2006-жылы негизделген Athenalarm — бул уурулукка каршы сигнализация жана тармактык сигнализацияны көзөмөлдөө тутумдарына адистешкен кесиптик өндүрүүчү. Биздин продукциялар ишканалар, мекемелер жана турак жай комплекстери үчүн ишенимдүү жана практикалык коопсуздук чечимдерин камсыздайт. Биз реалдуу убакыт текшерүүсү үчүн уурулукка каршы сигнализацияны CCTV менен айкалыштырган өнөр жай деңгээлиндеги сигнализация тутумдарына көңүл бурабыз, ал алыстан диагностика жүргүзүүнү жана борборлоштурулган башкарууну колдойт. Бул тутумдар банк, билим берүү, чекене соода, саламаттыкты сактоо жана турак жай сыяктуу ар кандай секторлор үчүн ылайыктуу жана дүйнө жүзү боюнча кардарлардын ишенимине ээ.
 
-Mipela bikpela produk range i kambakim alarm panel, alarm software, motion sensors, alarm detekta, smart home sistem, na voice reminda devices. Olgeta burglar alarm produkn dispela i givim ful security coverage long ol divas aplikesin, stat long bank vaults igo inap long komuniti perimeters na enterprise facilities.
+Биздин кеңири продукт диапазонуна сигнализация панелдери, сигнализация программалары, кыймыл сенсорлору, сигнализация детекторлору, сигнализация компоненттери, акылдуу үй тутумдары жана үн эскертүүчү түзүлүштөр кирет. Бул уурулукка каршы сигнализация продуктылары банк сактоочу жайларынан баштап коомдук периметрлерге жана ишкана объектилерине чейин ар кандай колдонмолор үчүн толук коопсуздук камтуусун камсыз кылат.
 
-Planti moa, mipela i givim OEM na custom branding services, we i mekim ol partner inap long lansim private-label intrusion alarm systems wantaim hardware customization, multilingual manuals, na packaging sapot. Sapos yu em distributor, integrator, o end-user, Athenalarm ol offerings i mekim easi deploy long profesional security solutions long olgeta hap bilong wol.
+Мындан тышкары, биз OEM жана жеке бренддик кызматтарды сунуштайбыз, өнөктөштөргө жабдууларды ылайыкташтыруу, көп тилдүү колдонмолор жана таңгактоо колдоосу менен жеке маркалуу уурулукка каршы сигнализация тутумдарын ишке киргизүүгө мүмкүнчүлүк беребиз. Дистрибьютор болосузбу, интегратор же акыркы колдонуучу болосузбу, Athenalarm чечимдери дүйнө жүзү боюнча кесиптик коопсуздук тутумдарын үзгүлтүксүз ишке киргизүүгө мүмкүнчүлүк берет.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Produk
+## Продукттар
 
 ![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Product Line | Ol Gutpela samting | Stretim Long |
-|--------------|-----------------|-------------|
-| AS-9000 Series Alarm Panel | Multi-channel communication (PSTN, 4G, TCP/IP), expandable zones (16 wired, 30 wireless, up to 1,656 via modules), LCD keypad wantaim voice prompts, tamper detection, automatic event logging | Banks, industrial parks, skul, commercial complexes, residensial komuniti |
-| Network Alarm Monitoring Solusen | Centralized management, bungim intrusion alarms wantaim CCTV & cloud platforms, real-time alarm pop-ups, video recording, multi-level forwarding, remote diagnostics | Bank branches, ATMs, vaults, hotel, stoa, enterprise, perimeters, residensial komuniti |
-| AA-100 Series Voice Reminda | Customizable voice alerts (MP3), bidirectional playback, mute alarm mode, wired/wireless integration, dual lighting modes | Ritel spaces, hosipol, opis, hotel, bank, warehouse, residensial sites |
-| Alarm Detekta | PIR motion sensors (AT-805, AT-806), photoelectric smoke detector (AS-603PC), gas detector (AS-705), digital vibration detector (AS-971), door contact (AA-56), panic buttons (AA-28B, AA-07) | Haus, opis, bank, hotel, hosipol, warehouse, ritel spaces |
-| Smart Home Sistem | GSM/WIFI alarm system (AS-6000), bungim wantaim ol sensor na panels bilong automated alerts na remote monitoring | Residensial komuniti, opis, liklik bisnis |
+| Продукт линиясы | Негизги артыкчылыктар | Кайсы үчүн ылайыктуу |
+|-----------------|----------------------|-----------------------|
+| AS-9000 Сериялык сигнализация панелдери | Көп каналдуу байланыш (PSTN, 4G, TCP/IP), кеңейтиле турган зоналар (16 зымдуу, 30 зымсыз, модулдар аркылуу 1,656 чейин), үн көрсөтмөлөрү бар LCD баскычтоп, бузулууну аныктоо, автоматтык окуя жазуусу | Банктар, өнөр жай парктары, мектептер, соода комплекстери, турак жай коомдоштуктары |
+| Тармактык сигнализацияны көзөмөлдөө чечимдери | Борборлоштурулган башкаруу, уурулукка каршы сигнализацияларды CCTV жана булут платформалары менен интеграциялоо, реалдуу убакыт сигнал терезелери, видео жазуу, көп деңгээлдүү жөнөтүү, алыстан диагностика | Банк филиалдары, банкоматтар, сактоочу жайлар, мейманканалар, дүкөндөр, ишканалар, периметрлер, турак жай коомдоштуктары |
+| AA-100 Сериялык Үн Эскерткичтер | Ыңгайлаштырылган үн билдирүүлөрү (MP3), эки тараптуу ойнотуу, унчукпас сигнализация режими, зымдуу/зымсыз интеграция, кош жарык режими | Чекене соода жайлары, ооруканалар, кеңселер, мейманканалар, банктар, кампалар, турак жай жайлары |
+| Сигнализация детекторлору | PIR кыймыл сенсорлору (AT-805, AT-806), фотоэлектрдик түтүн детектору (AS-603PC), газ детектору (AS-705), санариптик титирөө детектору (AS-971), эшик байланыштары (AA-56), паника баскычтары (AA-28B, AA-07) | Үй-жайлар, кеңселер, банктар, мейманканалар, ооруканалар, кампалар, чекене соода жайлары |
+| Акылдуу үй тутумдары | GSM/WIFI сигнализация тутуму (AS-6000), башка сенсорлор жана панелдер менен автоматтык эскертүүлөр жана алыстан мониторинг үчүн интеграцияланат | Турак жай коомдоштуктары, кеңселер, чакан бизнес |
 
-[Lukim Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Lukim Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Видеону көрүү 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Видеону көрүү 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Custom Branding Services
+## OEM жана Жеке Бренддик Кызматтар
 
-Mipela i givim private-label na custom solutions long ol distributor na integrator: hardware customization, multilingual manuals, packaging, na branding sapot. Dispela i mekim ol partner inap lansim branded burglar alarm produkn kwik na profesional.
+Биз дистрибьюторлор жана интеграторлор үчүн жеке маркалуу жана ылайыкташтырылган чечимдерди сунуштайбыз: жабдууларды ылайыкташтыруу, көп тилдүү колдонмолор, таңгактоо жана бренд колдоосу. Бул өнөктөштөргө уурулукка каршы бренддик продукцияларды тез жана кесиптик деңгээлде ишке киргизүүгө жардам берет.
 
-Stretim Long: Distributor na integrator we laik lansim branded security produkn
+Жарактуу үчүн: бренддик коопсуздук продуктыларын ишке киргизген дистрибьюторлор жана интеграторлор
 
-[Lukim OEM Example](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[OEM мисалын көрүү](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Bilong Wanem Athenalarm I Standaut
+## Эмне үчүн Athenalarm айырмаланат
 
-- Proven Expertise: Stet long 2006, givim scalable intrusion alarm na burglar alarm solutions we ol kliens long olgeta hap bilong wol i trustim.  
-- Versatile Applications: Stret long bank, hotel, stoa, komuniti, opis, na moa—bungim alarms, CCTV, na cloud technology bilong centralized control.  
-- Cost-Effective Innovation: Easy-to-install systems wantaim multi-channel communication (PSTN, 4G, TCP/IP) na expandable features long gutpela prais.  
-- Customer Satisfaction: Ol kliens long olgeta hap bilong wol i trustim long gutpela security produkn na systems.
+- Далилденген адистик: 2006-жылдан бери дүйнө жүзү боюнча ишенимге ээ масштабдуу уурулукка каршы жана сигнализация чечимдерин жеткирүү.  
+- Ар түрдүү колдонмолор: банктар, мейманканалар, дүкөндөр, коомчулуктар, кеңселер жана башка тармактар үчүн ылайыктуу — сигнализация, CCTV жана булут технологиясын борборлоштурулган көзөмөл үчүн айкалыштырат.  
+- Үнөмдүү инновация: көп каналдуу байланыш (PSTN, 4G, TCP/IP) менен орнотуу оңой тутумдар жана атаандаштык баада кеңейтиле турган функциялар.  
+- Кардарлардын канааттануусу: дүйнө жүзү боюнча кардарлар ишенимдүү коопсуздук продукциялары жана тутумдары үчүн ишенишет.
 
-[Lukim Customer Installation Case Studies](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Кардарлардын орнотуу учурларын көрүү](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Ol Testimonis Bilong Kliens
+## Кардарлардын пикирлери
 
-- “Intrusion alarm i gutpela, mi bin installim wanpela set na em i wok gutpela tru.” – Rabeah Arnous, CEO  
-- “Amazing system…Mi bin installim na klien bilong mi i amamas tru. 5-star rating.” – Bassey Tom, CEO  
-- “Network alarm monitoring system i gutpela tru, isi long yusim, isi long install na bihainim real time transmission. Mipela lukluk long nekis oda bilong mipela.” – Ben Takan, Security Coordinator
+- “Уурулукка каршы сигнализация жакшы иштейт, бир комплект орноттум жана ал мыкты иштеп жатат.” – Rabeah Arnous, CEO  
+- “Керемет система… Орноттум, кардарым абдан ыраазы болду. 5 жылдыз баа.” – Bassey Tom, CEO  
+- “Тармактык сигнализацияны көзөмөлдөө тутуму абдан жакшы, колдонуу оңой, орнотуу жеңил жана реалдуу убакытта өткөрүп берүү абдан жакшы. Кийинки буйрутманы чыдамсыздык менен күтөбүз.” – Ben Takan, Коопсуздук координатору
 
-## Stat Nau
+## Баштаңыз
 
-Sapos yu em security integrator, distributor, o end-user, Athenalarm i givim high-quality burglar alarm produkn na intrusion alarm systems we i stret long ol nid bilong yu.
+Сиз коопсуздук интегратору, дистрибьютор же акыркы колдонуучу болосузбу, Athenalarm сиздин муктаждыктарыңызга ылайык жогорку сапаттагы уурулукка каршы сигнализация продуктыларын жана тутумдарын сунуштайт.
 
-[Lukim Athenalarm.com Nau – Gwetim Free Quotation Tude!](https://athenalarm.com/)
+[Athenalarm.com сайтына азыр кириңиз – бүгүн эле акысыз баа алыңыз!](https://athenalarm.com/)
 
-## Kontakim Mipela Direktly
+## Биз менен түз байланыш
 
-- Website: [https://athenalarm.com/](https://athenalarm.com/)  
-- Imel: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobile/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Веб-сайт: [https://athenalarm.com/](https://athenalarm.com/)  
+- Электрондук почта: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Мобилдик/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Foloim Mipela
+## Бизди көзөмөлдөңүз
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
