@@ -1,31 +1,31 @@
 ---
-title: "Байланыш"
+title: "Ikopanye"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Биз сиздин бизнесиңиз үчүн эң мыкты **уулурулук сигнализациялык системалар** жана **коопсуздук чечимдерин** табууга жардам беребиз. Эгерде сизге техникалык колдоо, дистрибуция боюнча маалымат же өнөктөштүк тууралуу маалымат керек болсо — биздин тажрыйбалуу команда жардам берүүгө даяр.
+Re fa thuso go go thusa go bona **ditharabololo tsa tshireletso** le **disebelisoa tse di molemo tsa burglar alarm** tse di siametseng kgwebo ya gago. Fa o tlhoka tshegetso ya botegeniki, dintlha tsa kabo, kgotsa tshedimosetso ya kabelano, setlhopha sa rona se nang le maitemogelo se ikemiseditse go thusa.
 
-## 📍 Athenalarm менен байланыш
+## 📍 Ikopanye le Athenalarm
 
-**Дарек:**  
+**Aterese:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Электрондук почта:**  
+**Imeile:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Мобилдик / WhatsApp / Viber:**  
+**Mogala / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Веб-сайт:**  
+**Website:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Биз менен байланышта болуңуз
+## 🌐 Ikamanya le Rona
 
-Биздин соңку **коопсуздук инновациялары**, **орнотуу мисалдары** жана **жаңы продукция чыгаруулар** боюнча жаңылыктардан кабардар болуңуз:
+Lula o itse dikgatololo tsa rona tsa morao-rao tsa tshireletso, diphuputso tsa dikai, le ditlhabololo tsa dithoto:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — Профессионалдуу **уулурулук сигнализация өндүрүүчүсү** жана **тармактык коопсуздук сигналдарын көзөмөлдөө чечимдерин** камсыздоочу._
+> _Athenalarm — Moetsi wa Dikgwebo tsa Burglar Alarm tse di Itsegeng & Ditharabololo tsa Tlhokomelo ya Maranyane ya Tshireletso._
