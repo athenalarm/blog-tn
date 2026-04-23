@@ -36,4 +36,10 @@ Lula o itse dikgatololo tsa rona tsa morao-rao tsa tshireletso, diphuputso tsa d
 
 ---
 
+### 🛡️ Kitso ya Pabalesego ya Lefatshe
+
+**Athenalarm ke modiredi yo o tswang mo go tsa mahlale yo o abalanang kitso e e kgethegileng ka ditlabelo le ditsamaiso tsa alamo ya magodu.** Jaaka karolo ya boineelo jwa rona mo setšhabeng sa pabalesego sa lefatshe ka bophara, re tlamela ka kitso ya selegae ka dipuo di le 71. Batlisisa kitso ya rona ya Yuropa, Aferika, Asia, Amerika le Oceania [**fano**](https://athenalarm.com/burglar-alarm-manufacturer/athenalarm-global-blogs/).
+
+---
+
 > _Athenalarm — Moetsi wa Dikgwebo tsa Burglar Alarm tse di Itsegeng & Ditharabololo tsa Tlhokomelo ya Maranyane ya Tshireletso._
